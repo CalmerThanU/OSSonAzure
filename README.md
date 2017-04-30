@@ -7,6 +7,8 @@ This project builds the framwork needed for additional demos including:
 - Image creation and migration to Azure for RHEL, Centos and Ubuntu VM's
 - and many more to come....
 
+![alt tag](https://github.com/CalmerThanU/Mycode/blob/master/githubvid2.gif)
+
 This particular project is comprised of a single shell script that has been tested to run on the following environments:
 - Ubuntu Shell on Windows.  For installation instructions and please see - https://msdn.microsoft.com/en-us/commandline/wsl/install_guide 
 - MacOS Sierra
